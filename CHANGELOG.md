@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v1.0.1
+
+[compare changes](https://github.com/Deadsimple-ecommerce/HyvaInputMask/compare/1.0.0...v1.0.1)
+
+### 💅 Refactors
+
+- Update package related files for uniformity ([50ddd4e](https://github.com/Deadsimple-ecommerce/HyvaInputMask/commit/50ddd4e))
+
+### 📖 Documentation
+
+- **changelog:** Add changelog to page ([3d308bf](https://github.com/Deadsimple-ecommerce/HyvaInputMask/commit/3d308bf))
+
+### ❤️ Contributors
+
+- Maurits Meester ([@mmeester](https://github.com/mmeester))
+
 ## v1.0.0
 
 
