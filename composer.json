@@ -16,5 +16,18 @@
         "files": [
             "registration.php"
         ]
+    },
+    "archive": {
+        "exclude": [
+            "/.git",
+            "/.gitignore",
+            "/.vscode",
+            "/node_modules",
+            "/package.json",
+            "/package-lock.json",
+            "/.release-it.json",
+            "/README.md",
+            "/LICENSE"
+        ]
     }
 }

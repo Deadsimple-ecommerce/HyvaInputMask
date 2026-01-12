@@ -1,0 +1,21 @@
+{
+  "name": "@deadsimple/hyva-input-mask",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Deadsimple-ecommerce/HyvaInputMask.git"
+  },
+  "authors": [
+    {
+      "name": "Maurits Meester",
+      "email": "maurits@e-mmer.nl"
+    }
+  ],
+  "devDependencies": {
+    "release-it": "^19.2.3"
+  },
+  "scripts": {
+    "--- 🚀 Releases ---": "",
+    "release": "release-it",
+    "release:dry": "release-it --dry-run"
+  }
+}
