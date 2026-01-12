@@ -1,5 +1,7 @@
 {
   "name": "@deadsimple/hyva-input-mask",
+  "description": "A deadsimple wrapper to use the input mask plugin from AlpineJs directly in you Hyvä theme and forms",
+  "version": "1.0.0",
   "private": true,
   "repository": {
     "type": "git",
@@ -19,6 +21,5 @@
     "--- 🚀 Releases ---": "",
     "release": "release-it",
     "release:dry": "release-it --dry-run"
-  },
-  "version": "1.0.0"
+  }
 }
