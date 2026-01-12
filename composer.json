@@ -29,5 +29,6 @@
             "/README.md",
             "/LICENSE"
         ]
-    }
+    },
+    "version": "1.0.0"
 }

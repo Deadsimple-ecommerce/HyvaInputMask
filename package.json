@@ -19,5 +19,6 @@
     "--- 🚀 Releases ---": "",
     "release": "release-it",
     "release:dry": "release-it --dry-run"
-  }
+  },
+  "version": "1.0.0"
 }
