@@ -1,4 +1,4 @@
-[![Latest Stable Version](https://poser.pugx.org/deadsimple/hyva/version)](https://packagist.org/packages/deadsimple/hyva-input-mask) [![Total Downloads](https://poser.pugx.org/deadsimple/hyva-input-mask/downloads)](https://packagist.org/packages/deadsimple/hyva-input-mask) [![License](https://poser.pugx.org/deadsimple/hyva-input-mask/license)](https://packagist.org/packages/deadsimple/hyva-input-mask)
+[![Latest Stable Version](http://poser.pugx.org/deadsimple/hyva-input-mask/v)](https://packagist.org/packages/deadsimple/hyva-input-mask) [![Total Downloads](http://poser.pugx.org/deadsimple/hyva-input-mask/downloads)](https://packagist.org/packages/deadsimple/hyva-input-mask) [![Latest Unstable Version](http://poser.pugx.org/deadsimple/hyva-input-mask/v/unstable)](https://packagist.org/packages/deadsimple/hyva-input-mask) [![License](http://poser.pugx.org/deadsimple/hyva-input-mask/license)](https://packagist.org/packages/deadsimple/hyva-input-mask) [![PHP Version Require](http://poser.pugx.org/deadsimple/hyva-input-mask/require/php)](https://packagist.org/packages/deadsimple/hyva-input-mask)
 
 # Deadsimple Hyva Input Mask Module using AlpineJs Plugin
 
