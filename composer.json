@@ -1,0 +1,20 @@
+{
+    "name": "deadsimple/hyva-input-mask",
+    "description": "A deadsimple wrapper to use the input mask plugin from AlpineJs directly in you Hyvä theme and forms",
+    "type": "magento2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maurits Meester",
+            "email": "maurits@e-mmer.nl"
+        }
+    ],
+    "require": {
+        "hyva-themes/magento2-default-theme": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
