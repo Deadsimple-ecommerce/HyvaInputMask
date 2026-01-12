@@ -1,5 +1,6 @@
 {
   "name": "@deadsimple/hyva-input-mask",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/Deadsimple-ecommerce/HyvaInputMask.git"
